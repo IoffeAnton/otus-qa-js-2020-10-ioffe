@@ -14,3 +14,5 @@
  * i2
  * i3
 >>>>>>> 687a3921f6506c7e82b9564850d79871b866b09c
+
+This line will be approved by colleagues
